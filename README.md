@@ -1,5 +1,10 @@
 # WP Headless Client
 
+[![npm version](https://img.shields.io/npm/v/wp-headless-client.svg)](https://www.npmjs.com/package/wp-headless-client)
+[![npm downloads](https://img.shields.io/npm/dm/wp-headless-client.svg)](https://www.npmjs.com/package/wp-headless-client)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
+
 Modern, TypeScript-first WordPress REST API client for headless applications.
 
 ## Features
