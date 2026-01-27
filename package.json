@@ -26,6 +26,7 @@
     "type": "git",
     "url": "https://github.com/sannysri/wp-headless-client"
   },
+  "homepage": "https://sanny.dev/plugins/?utm_source=npm&utm_medium=package&utm_campaign=wp-headless-client",
   "files": [
     "dist",
     "README.md",
